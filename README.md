@@ -1,4 +1,4 @@
-# SPEECH TO TEXT & TEXT TO SPEECH (python)
+# SPEECH TO TEXT & TEXT TO SPEECH (python)🗣 💬
 
    Create Watson service (STT , TTS )
 
@@ -31,7 +31,11 @@ $pip install requests
 * [output.text](https://github.com/Elham6316/SpeechToText-TextToSpeech-Python/blob/main/LIVE%20STT/output.txt)
 
 #### VIDEO
-https://github.com/Elham6316/SpeechToText-TextToSpeech-Python-TASK4/blob/main/LIVE%20STT/video.mov 
+
+
+https://user-images.githubusercontent.com/85634015/124833871-76b3b580-df87-11eb-9801-be0bc639de3d.mov
+
+
 
 
 
