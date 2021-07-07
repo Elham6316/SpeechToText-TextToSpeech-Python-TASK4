@@ -1,2 +1,0 @@
-pyaudio
-websocket-client
